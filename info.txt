@@ -2,12 +2,12 @@
 
 什么是Selenium
 https://zhuanlan.zhihu.com/p/393003812
-（对于生成详细的测试报告，可以使用TestNG）
 
 
 
 Selenium爬虫-获取浏览器Network请求和响应
 https://cloud.tencent.com/developer/article/1549872
+
 
 
 抖音抓取
